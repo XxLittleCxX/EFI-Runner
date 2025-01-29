@@ -1,4 +1,4 @@
-# EFI-Runner
+# EFI-Runner 
 [![Debug build](https://github.com/Segilmez06/EFI-Runner/actions/workflows/debug-build.yml/badge.svg)](https://github.com/Segilmez06/EFI-Runner/actions/workflows/debug-build.yml)
 [![Release build](https://github.com/Segilmez06/EFI-Runner/actions/workflows/release-build.yml/badge.svg)](https://github.com/Segilmez06/EFI-Runner/actions/workflows/release-build.yml)
 
